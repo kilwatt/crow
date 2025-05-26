@@ -1,2 +1,2 @@
-# crow
+# Crow 🐦‍⬛
 Minimalistic antivirus written in Watt 🤖
